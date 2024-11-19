@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**SSStarku/SSStarku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a 16-year-old tech enthusiast from **Spain** 🇪🇸.  
+I enjoy **programming**, and creating projects with **microcontrollers**.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Interests
+- Programming languages: Python, Arduino, a bit of *C#*.
+- Visual Code enjoyer.
+- Nice level of english. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Goals
+- Keep improving my coding skills.
+- Contribute to open-source projects.
+- *GGEZ*
+
